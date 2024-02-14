@@ -152,11 +152,11 @@ img {
     }
 
     .why-us .col-left {
-    width: 100%;
+        width: 100%;
     }
 
     .why-us .col-right {
-    width: 100%;
+        width: 100%;
     }
 
     .steps .col {
@@ -164,7 +164,7 @@ img {
     }
 
     .why-us{
-        background-color: #232324;
+        background-color: #222222;
         padding-top: 20px;
         padding-bottom: 20px;
         margin-bottom: 0px;
